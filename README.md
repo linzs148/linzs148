@@ -1,8 +1,6 @@
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=linzs148&show_icons=true&theme=vue&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=linzs148">
-</p>
+<img src="https://activity-graph.herokuapp.com/graph?username=linzs148&theme=xcode&bg_color=FF000000&hide_border=true&theme=xcode" />
 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=linzs148&theme=vue">
-</p>
+<div align="center">
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=linzs148&hide_border=true&show_icons=true&line_height=21&theme=xcode" />
+    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linzs148&hide_border=true&layout=compact&theme=xcode" />
+</div>
